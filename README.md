@@ -216,7 +216,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Để tham gia:
 
 Tạo Issue: Mô tả rõ vấn đề hoặc tính năng mới, kèm ảnh chụp màn hình nếu cần.
 ```
-Tạo Pull Request:git clone https://github.com/nguyenhoai-an/Amethyst.git
+Tạo Pull Request:git clone [https://github.com/nguyenhoai-an/Amethyst.git](https://github.com/hoaiiann0804/Fashion_Ecommerce.git)
 git checkout -b feature/your-feature-name
 git add .
 git commit -m "feat: mô tả thay đổi"
