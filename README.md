@@ -154,7 +154,7 @@ Phía quản trị
 
 📂 Cấu trúc dự án
 
-### Frontend Architecture
+###  Architecture
 ```
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
