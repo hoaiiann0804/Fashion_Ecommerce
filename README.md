@@ -40,9 +40,13 @@ Giao diện quản trị với thống kê doanh thu
 
 *Trang chủ với danh sách sản phẩm và thanh tìm kiếm*
 
-![Chi tiết sản phẩm](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/product-detail.png)
+![Trang thông tin sản phẩm và bộ lọc](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/Product_Fliter.jpg)
 
-*Thông tin sản phẩm, variants, và đánh giá*
+*Trang Thông tin sản phẩm và bộ lọc *
+
+![chi tiết sản phẩm](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/Product_Detail.jpg)
+
+*Thông tin sản phẩm, variants*
 
 ![Giỏ hàng](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/cart.png)
 
