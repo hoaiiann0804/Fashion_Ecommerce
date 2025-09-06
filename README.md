@@ -153,7 +153,6 @@ Phía quản trị
 📈 Báo cáo bán hàng chi tiết.
 
 📂 Cấu trúc dự án
-
 ```
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
