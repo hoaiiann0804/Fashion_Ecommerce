@@ -65,21 +65,25 @@ Git
 Các bước cài đặt
 
 Clone dự án
-git clone https://github.com/nguyenhoai-an/Amethyst.git
-cd Amethyst
+git clone [https://github.com/nguyenhoai-an/Amethyst.git](https://github.com/hoaiiann0804/Fashion_Ecommerce.git)
+cd Fashion_Ecommerce
 
 
 Cấu hình môi trường
 
 Frontend: Tạo file .env trong thư mục client và admin:# client/.env
+```
 VITE_API_URL=https://localhost:5001
 VITE_GOOGLE_ANALYTICS_ID=your-ga-id
+```
 
 # admin/.env
+```
 VITE_ADMIN_API_URL=https://localhost:5001/api/admin
 VITE_ADMIN_TOKEN=your-admin-token
+```
 
-
+```
 Backend: Cập nhật Amethyst.API/appsettings.json:{
   "ConnectionStrings": {
     "DefaultConnection": "Server=localhost;Database=AmethystDB;Trusted_Connection=True;TrustServerCertificate=True;"
@@ -91,36 +95,41 @@ Backend: Cập nhật Amethyst.API/appsettings.json:{
     "Audience": "AmethystClient"
   }
 }
-
+```
 
 
 
 Cài đặt frontend
+```
 cd client
 npm install
 npm run dev
 
 Truy cập: http://localhost:5173
-
+```
 Cài đặt admin
 cd ../admin
 npm install
 npm run dev
 
 Truy cập: http://localhost:5173/admin
+```
 
 Cài đặt backend
+```
 cd ../Amethyst.API
 dotnet restore
 dotnet ef database update
 dotnet run
 
 Truy cập Swagger UI: https://localhost:5001/swagger
+```
 
 Tài khoản thử nghiệm
-
+```
 Khách hàng: user@example.com / password123
 Admin: admin@example.com / admin123
+```
 
 
 
