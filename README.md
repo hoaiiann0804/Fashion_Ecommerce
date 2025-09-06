@@ -153,13 +153,9 @@ Phía quản trị
 📈 Báo cáo bán hàng chi tiết.
 
 
+## 📂 Cấu trúc dự án
 
-📂 Cấu trúc dự án
-
-
-
-###  Architecture
-```
+```plaintext
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
 │   ├── src/
@@ -179,12 +175,11 @@ Amethyst/
 │   ├── Controllers/            # API Controllers
 │   ├── Models/                # Domain models và DTOs
 │   ├── Data/                  # DbContext và Migrations
-│   ├── Services/              # Business logic
+│   ├── Services/               # Business logic
 │   ├── Middleware/            # Custom middleware
-│   └── appsettings.json       # Cấu hình ứng dụng
+│   └── appsettings.json        # Cấu hình ứng dụng
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
-```
 🚀 Triển khai
 
 Lưu ý: Triển khai frontend hiện đang gặp lỗi. Hướng dẫn dưới đây áp dụng khi lỗi được khắc phục.
