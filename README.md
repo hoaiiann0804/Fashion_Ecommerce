@@ -7,11 +7,6 @@
 [![Project Status](https://img.shields.io/badge/status-active_development-yellowgreen)](https://github.com/yourusername/Fashion_Ecommerce)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.3-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
 
 🌟 Giới thiệu
 Amethyst là một nền tảng thương mại điện tử thời trang hiện đại, sử dụng kiến trúc micro-frontend, mang đến trải nghiệm mua sắm trực tuyến mượt mà và hệ thống quản trị hiệu quả.
@@ -147,6 +142,8 @@ Phía quản trị
 📈 Báo cáo bán hàng chi tiết.
 
 📂 Cấu trúc dự án
+
+```
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
 │   ├── src/
@@ -171,7 +168,7 @@ Amethyst/
 │   └── appsettings.json        # Cấu hình ứng dụng
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
-
+```
 🚀 Triển khai
 
 Lưu ý: Triển khai frontend hiện đang gặp lỗi. Hướng dẫn dưới đây áp dụng khi lỗi được khắc phục.
@@ -179,10 +176,12 @@ Lưu ý: Triển khai frontend hiện đang gặp lỗi. Hướng dẫn dưới 
 Triển khai Backend
 
 Local Development
+```
 cd Amethyst.API
 dotnet restore
 dotnet ef database update
 dotnet run
+```
 
 Truy cập Swagger UI: https://localhost:5001/swagger
 
@@ -195,9 +194,10 @@ Triển khai qua GitHub Actions hoặc Azure DevOps.
 
 
 Triển khai Frontend
-
+```
 Build productioncd client
 npm run build
+```
 
 
 Triển khai thư mục dist lên Vercel hoặc IIS (khi lỗi triển khai được khắc phục).
@@ -206,12 +206,13 @@ Triển khai thư mục dist lên Vercel hoặc IIS (khi lỗi triển khai đư
 Chúng tôi hoan nghênh mọi đóng góp! Để tham gia:
 
 Tạo Issue: Mô tả rõ vấn đề hoặc tính năng mới, kèm ảnh chụp màn hình nếu cần.
+```
 Tạo Pull Request:git clone https://github.com/nguyenhoai-an/Amethyst.git
 git checkout -b feature/your-feature-name
 git add .
 git commit -m "feat: mô tả thay đổi"
 git push origin feature/your-feature-name
-
+```
 
 Nguyên tắc code:
 Tuân thủ coding style hiện có.
@@ -244,10 +245,11 @@ Học cách tích hợp Swagger/OpenAPI và tối ưu hiệu suất backend.
 Nâng cao kỹ năng debug trong môi trường full-stack.
 
 📞 Liên hệ
-
+```
 Nhóm phát triển: Nguyễn Hoài An, Trần Xuân Hoàng
 Email: hoaiiann0804@gmail.com
 GitHub: [github.com/nguyenhoai-an](https://github.com/hoaiiann0804)
+```
 
 
 🛠️ Được phát triển bởi Nhóm 10 - Đồ án Tốt nghiệp CNTT - Đại học Công nghệ Thông tin
