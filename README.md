@@ -76,11 +76,10 @@ Giao diện quản trị với thống kê doanh thu
 
 *Dashboard quản trị với danh sách đơn hàng*
 
-![Admin Dashboard](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/admin_user.png)
+![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_brand.jpg)
 
-*Dashboard quản trị với danh sách ngườin dùng*
+*Dashboard quản trị với danh sách thương hiệu*
 
-![Admin Dashboard](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/admin_warranty.png)
 
 🚀 Công nghệ sử dụng
 Frontend (Client & Admin)
