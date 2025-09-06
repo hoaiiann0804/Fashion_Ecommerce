@@ -56,7 +56,8 @@ Giao diện quản trị với thống kê doanh thu
 
 *Thanh toán với mã QR từ Sepay*
 
-![Đơn hàng](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/order.png)
+![Đơn hàng](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/orderr.jpg)
+![Chi tiết đơn hàng, cập nhật trạng thái, và thanh toán*](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/order_detail.jpg)
 
 *Xem chi tiết đơn hàng, cập nhật trạng thái, và thanh toán*
 
