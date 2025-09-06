@@ -65,8 +65,10 @@ Git
 Các bước cài đặt
 
 Clone dự án
+```
 git clone [https://github.com/nguyenhoai-an/Amethyst.git](https://github.com/hoaiiann0804/Fashion_Ecommerce.git)
 cd Fashion_Ecommerce
+```
 
 
 Cấu hình môi trường
