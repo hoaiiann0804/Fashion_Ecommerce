@@ -181,7 +181,7 @@ Amethyst/
 │   └── appsettings.json       # Cấu hình ứng dụng
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
-
+```
 
 🚀 Triển khai
 
