@@ -52,10 +52,9 @@ Giao diện quản trị với thống kê doanh thu
 
 *Quản lý sản phẩm trong giỏ hàng*
 
-![Thanh toán](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/payment.png)
-![Tích hợp stripe](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/payment_stripe.png)
+![Thanh toán tích hợp mã QR từ Sepay](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/payment.jpg)
 
-*Thanh toán an toàn với Stripe*
+*Thanh toán với mã QR từ Sepay*
 
 ![Đơn hàng](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/order.png)
 
