@@ -46,9 +46,9 @@ Giao diện quản trị với thống kê doanh thu
 
 ![chi tiết sản phẩm](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/Product_Detail.jpg)
 
-*Thông tin sản phẩm, variants*
+*Chi tiết sản phẩm*, variants*
 
-![Giỏ hàng](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/cart.png)
+![Giỏ hàng](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/cart.jpg)
 
 *Quản lý sản phẩm trong giỏ hàng*
 
