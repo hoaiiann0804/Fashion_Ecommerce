@@ -64,7 +64,7 @@ Giao diện quản trị với thống kê doanh thu
 ![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_home.jpg)
 *Dashboard quản trị với thống kê doanh thu*
 
-![Admin Dashboard](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/admin_product.png)
+![Admin Dashboard](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/product_admin.jpg)
 
 *Dashboard quản trị với danh sách sản phẩm*
 
