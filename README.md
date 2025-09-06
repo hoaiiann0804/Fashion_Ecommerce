@@ -155,7 +155,6 @@ Phía quản trị
 📂 Cấu trúc dự án
 
 ###  Architecture
-
 ```
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
@@ -182,7 +181,6 @@ Amethyst/
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
 ```
-
 🚀 Triển khai
 
 Lưu ý: Triển khai frontend hiện đang gặp lỗi. Hướng dẫn dưới đây áp dụng khi lỗi được khắc phục.
