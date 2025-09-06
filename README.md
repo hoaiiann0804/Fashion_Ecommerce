@@ -1,4 +1,4 @@
-# 🛍️ Fashion_Ecommerce
+# 🛍️ Amethyst - Fashion E-commerce Platform
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -12,9 +12,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.3-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## 🌟 Giới thiệu
-
-🛍️ Amethyst - Fashion E-commerce Platform
 
 🌟 Giới thiệu
 Amethyst là một nền tảng thương mại điện tử thời trang hiện đại, sử dụng kiến trúc micro-frontend, mang đến trải nghiệm mua sắm trực tuyến mượt mà và hệ thống quản trị hiệu quả.
@@ -150,7 +147,6 @@ Phía quản trị
 📈 Báo cáo bán hàng chi tiết.
 
 📂 Cấu trúc dự án
-
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
 │   ├── src/
@@ -170,9 +166,9 @@ Amethyst/
 │   ├── Controllers/            # API Controllers
 │   ├── Models/                # Domain models và DTOs
 │   ├── Data/                  # DbContext và Migrations
-│   ├── Services/              # Business logic
-│   ├── Middleware/            # Custom middleware
-│   └── appsettings.json       # Cấu hình ứng dụng
+│   ├── Services/               # Business logic
+│   ├── Middleware/             # Custom middleware
+│   └── appsettings.json        # Cấu hình ứng dụng
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
 
@@ -250,9 +246,8 @@ Nâng cao kỹ năng debug trong môi trường full-stack.
 📞 Liên hệ
 
 Nhóm phát triển: Nguyễn Hoài An, Trần Xuân Hoàng
-Email: nguyenhoaian@example.com
-GitHub: github.com/nguyenhoai-an
-Portfolio: your-portfolio.com (nếu có)
+Email: hoaiiann0804@gmail.com
+GitHub: [github.com/nguyenhoai-an](https://github.com/hoaiiann0804)
 
 
 🛠️ Được phát triển bởi Nhóm 10 - Đồ án Tốt nghiệp CNTT - Đại học Công nghệ Thông tin
