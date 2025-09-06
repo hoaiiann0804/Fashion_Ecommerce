@@ -71,8 +71,8 @@ Giao diện quản trị với thống kê doanh thu
 ![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_categories.jpg)
 *Dashboard quản trị với danh sách danh mục*
 
-![Admin Dashboard](https://github.com/Fashion_Ecommerce/raw/main/screenshots/admin_order.jpg)
-![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_order_detail.jpg)
+![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_order.jpg)
+![Admin Dashboard](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/admin_order_details.jpg)
 
 *Dashboard quản trị với danh sách đơn hàng*
 
