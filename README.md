@@ -36,7 +36,7 @@ Thanh toán an toàn (đang phát triển)
 Giao diện quản trị với thống kê doanh thu
 
 ![Trang chủ](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/homepage.png)
-![Trang chủ](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot/raw/main/screenshots/ProductList_homepage.png)
+![Trang chủ](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/ProductList_homepage.jpg)
 
 *Trang chủ với danh sách sản phẩm và thanh tìm kiếm*
 
