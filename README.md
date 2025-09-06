@@ -52,7 +52,7 @@ Giao diện quản trị với thống kê doanh thu
 
 *Quản lý sản phẩm trong giỏ hàng*
 
-![Thanh toán tích hợp mã QR từ Sepay](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/payment.jpg)
+![Thanh toán tích hợp mã QR từ Sepay](https://github.com/hoaiiann0804/Fashion_Ecommerce/raw/main/screenshots/checkout.jpg)
 
 *Thanh toán với mã QR từ Sepay*
 
