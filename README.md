@@ -155,6 +155,7 @@ Phía quản trị
 📂 Cấu trúc dự án
 
 ###  Architecture
+
 ```
 Amethyst/
 ├── client/                       # Giao diện người dùng (React + TypeScript + Vite)
@@ -175,9 +176,9 @@ Amethyst/
 │   ├── Controllers/            # API Controllers
 │   ├── Models/                # Domain models và DTOs
 │   ├── Data/                  # DbContext và Migrations
-│   ├── Services/               # Business logic
-│   ├── Middleware/             # Custom middleware
-│   └── appsettings.json        # Cấu hình ứng dụng
+│   ├── Services/              # Business logic
+│   ├── Middleware/            # Custom middleware
+│   └── appsettings.json       # Cấu hình ứng dụng
 ├── screenshots/                 # Ảnh chụp màn hình
 └── README.md                    # Tài liệu dự án
 ```
