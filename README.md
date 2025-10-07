@@ -313,4 +313,4 @@ GitHub: [github.com/nguyenhoai-an](https://github.com/hoaiiann0804)
 ```
 
 
-🛠️ Được phát triển bởi Nhóm 10 - Đồ án Tốt nghiệp CNTT - Đại học Công nghệ Thông tin
+
